@@ -1,7 +1,7 @@
 
 - 👨‍💻 Há um ano, trabalho desenvolvendo Front-End voltado para jogos.
 - 🎓 Atualmente, estou cursando o segundo ano de Ciência da Computação.
-- 🌱 Estou me dedicando aos estudos de Next.js.
+- 🌱 Estou me dedicando aos estudos de React.js.
 
 <div align="center">
   <a href="https://github.com/DavidSantos5992">
