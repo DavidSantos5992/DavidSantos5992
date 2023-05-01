@@ -5,7 +5,22 @@
 
 <div align="center">
   <a href="https://github.com/DavidSantos5992">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSantos5992&layout=compact&langs_count=7&theme=highcontrast"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=DavidSantos5992&theme=Javascript-dark&border_radius=7&locale=pt_BR&date_format=j%20M%5B%20Y%5D)">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSantos5992&layout=compact&langs_count=7&theme=omni&hide_border=true"/>
+  <img height="180em" src='https://streak-stats.demolab.com?user=DavidSantos5992&theme=dark&hide_border=true&border_radius=10&locale=pt_BR&card_width=483&ring=C361EB&fire=FF08FD&currStreakLabel=C361EB&stroke=C361EB&sideLabels=C361EB'/>
 </div>
   
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DavidSantos5992&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  
+  
+ ### Principais tecnológicas:
+ <p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=323330" />
+ <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-45b8d8?style=flat-square&logo=react&logoColor=white"/>
+  <p/>
+
+  
+
+
