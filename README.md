@@ -17,8 +17,9 @@
  <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img alt="tailwindcss" src="https://img.shields.io/badge/-tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=323330" />
- <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-45b8d8?style=flat-square&logo=react&logoColor=white"/>
+  <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-45b8d8?style=flat-square&logo=react&logoColor=white"/>
   <p/>
 
   
