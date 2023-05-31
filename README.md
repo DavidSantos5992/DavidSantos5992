@@ -9,7 +9,10 @@
   <img height="180em" src='https://streak-stats.demolab.com?user=DavidSantos5992&theme=dark&hide_border=true&border_radius=10&locale=pt_BR&card_width=483&background=45%2C191622%2C191622&sideLabels=F575BE&fire=F500D5&ring=F575BE&currStreakLabel=F575BE'/>
 </div>
   
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DavidSantos5992&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/DavidSantos5992?chart=3dbar&gap=2&scale=2&gradient=true&animation=mess&animation_duration=4&animation_loop=true&format=svg&weeks=30&theme=green&colors=ff69b4,ee3d96,f23494,e71b82,ed1381&dark=true"/>
+</div>
 
   
   
