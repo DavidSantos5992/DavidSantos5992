@@ -1,9 +1,9 @@
 <div align="center">
   <h2>Olá, eu sou o David Santos 👋</h2>
-  <p>- 👨‍💻 Desenvolvedor front-end especializado em sites empresariais. </br>
-- 💻 Um ano de experiência no desenvolvimento front-end voltado para jogos.  </br>
-- 🎓 Atualmente cursando o segundo ano de Ciência da Computação.  </br>
-- 🌱 Dedicado aos estudos de Next.js para aprimorar habilidades..  </br> </p>
+  <p>- 👨‍💻 Desenvolvedor web especializado em sites empresariais. </br>
+- 💻 Dois anos de experiência no desenvolvimento voltado para jogos e sistemas internos.  </br>
+- 🎓 Atualmente cursando o último ano de Ciência da Computação.  </br>
+- 🌱 Dedicado aos estudos Full Stack para aprimorar habilidades..  </br> </p>
 </div>
 
 
