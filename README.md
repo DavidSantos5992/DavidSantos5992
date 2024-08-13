@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Olá, eu sou o David Santos 👋</h2>
-  <p>- 👨‍💻 Desenvolvedor web especializado em sites empresariais. </br>
-- 💻 Dois anos de experiência no desenvolvimento voltado para jogos e sistemas internos.  </br>
+  <p>- 👨‍💻 Desenvolvedor web especializado em sites e sistemas empresariais. </br>
+- 💻 Desde 2022 no desenvolvimento voltado para jogos e sistemas internos.  </br>
 - 🎓 Atualmente cursando o último ano de Ciência da Computação.  </br>
 - 🌱 Dedicado aos estudos Full Stack para aprimorar habilidades..  </br> </p>
 </div>
