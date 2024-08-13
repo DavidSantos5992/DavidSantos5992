@@ -25,7 +25,9 @@
   <img alt="React.js" src="https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white"/>
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-45b8d8?style=flat-square&logo=react&logoColor=white"/>
   <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 </div>
+
 <div align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/DavidSantos5992?chart=3dbar&gap=2&scale=2&gradient=true&animation=mess&animation_duration=4&animation_loop=true&format=svg&weeks=30&theme=green&colors=ff69b4,ee3d96,f23494,e71b82,ed1381&dark=true"/>
 </div>
